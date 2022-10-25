@@ -1,0 +1,302 @@
+body{
+    padding: 0;
+}
+.firstheader{
+    height: 100px;
+    width: 100%;
+    background-color: #ddebf3;
+}
+.logo{
+    height: 30px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.menue li{
+    font-size: 25px;
+    position: absolute;
+    top: 30px;
+    right: 50px;
+    padding: 20px;
+    padding-right: 40px;
+
+  
+    list-style: none;
+}
+.menue a{
+    text-decoration: none;
+    color: rgb(22, 12, 12);
+    padding: 10px;
+}
+.header2{
+    background-color: rgb(101, 101, 221);
+    height: 40px;
+    
+}
+.flag{
+    height: 30px;
+    position: absolute;
+    left: 300px;
+    margin: 5px;
+}
+.textflag{
+    color: white;
+    position: absolute;
+    right: 300px;
+    margin: 10px;
+}
+.textflag a{
+    color:white;
+}
+
+.mg{
+    width: 100px;
+    height:50px ;
+}
+
+
+.text{
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    margin-left:30px ;
+    font-family: arial;
+    font-size: 14pxs;
+
+}
+.im2{
+    width: 100%;
+    height: 50%;
+}
+.text2{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-family: arial;
+}
+.text3{
+    text-align: center;
+    color: rgb(46, 37, 37);
+    font-size: 25px;
+    margin-top: 10px;
+}
+input{
+    width: 50%;
+    height: 40px;
+    border: 1px solid grey;
+    box-shadow: blue;
+    font-size: 15px;
+   font-family: times;
+   padding: 5px;
+   margin-top: 20px;
+    
+}
+.tt{
+    margin-left: 30%;
+}
+button{
+    background-color: rgb(216, 19, 19);
+    width: 80px;
+    height: 40px;
+    border: none;
+    color: white;
+}
+.texs{
+    position: absolute;
+    right: 490px;
+    margin: 10px;
+}
+.in1{
+    color:rgb(23, 97, 97);
+    padding: 10px;
+}
+.in1 :hover{
+    background-color:rgb(7, 71, 71);
+}
+.boxs{
+    margin: 20px;
+    display: flex;
+    margin: 40px;
+
+
+}
+
+.box{
+width: 250px;
+height: 190px;
+background-color: white;
+box-shadow: 0 0 10px 2px rgb(203, 200, 200);
+padding: 30px;
+border-radius: 10px;
+margin-top: 15px; 
+margin-left: 20px;
+
+}
+.con{
+    font-size: 20px;
+    color: gray;
+    margin-top: 40px;
+}
+.con2{
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}
+.pic{
+    width: 100px;
+}
+.boxtitle{
+
+font-size: 35px;
+text-align: left;
+font-weight: bold;
+
+}
+.boxtitle :hover{
+    color: red;
+}
+.box-content{
+line-height: 30px;
+color: rgb(37, 36, 36);
+margin-top: 15px;
+color: gray;
+font-size: 20px;
+
+}
+.tx{
+    font-size: 35px;
+    text-align: center;
+}
+.tx2{
+    text-align: center;
+    color: gray;
+    margin-top: 10px;
+}
+.imm{
+    width: 600px;
+    height: 500px;
+    margin-left: 30%;
+    margin-top: 10px;
+}
+.mm{
+    text-align: center;
+   color: gray;
+    font-size: 50px;
+    font-family: arial; 
+}
+.mmm{
+    text-align: center;
+    font-size: 20pxpx;
+    color: gray;
+    font-family: arial;
+}
+.boxo{
+    width: 300px;
+height: 250px;
+background-color: white;
+box-shadow: 0 0 10px 2px rgb(203, 200, 200);
+padding: 30px;
+border-radius: 10px;
+margin-top: 15px; 
+margin-left: 60px;
+
+}
+#m4{
+    text-align: center;
+    font-size: 40px;
+    color: gray;
+    margin-top: 30px;
+    margin-top: 10px;
+}
+.mainbox{
+    display: flex;
+    justify-content: center;
+}
+.boxis{
+    width: 400px;
+    text-align:  center;
+    border: 1px solid gray;
+    margin-left: 20px;
+}
+.imagee{
+    width: 100px;
+    margin-left: 100px;
+}
+.tatle{
+    color: gray;
+    font-size: 30px;
+
+}
+.qoraa{
+    color: rgb(151, 139, 139);
+    text-align: center;
+
+}
+
+.miain{
+    width: 100%;
+    background-color: rgb(227, 245, 245);
+}
+.text33{
+    color: gray;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40px;
+}
+.mini{
+    width: 15%;
+    background-color: rgb(222, 222, 230);
+    text-align: center;
+    height: 15%;
+ margin-left: 45%;
+ font-size: 30PX;
+ color: gray;
+
+}
+.mimii{
+    width: 80%;
+    height: 60%;
+    background-color: rgb(10, 27, 180);
+   margin-top: 10PX;
+   margin-left: 10%;
+   border-radius: 10PX;
+}
+.mimi{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+   margin: 30px;
+
+
+}
+.mim{
+    color: white;
+    margin: 20px;
+}
+.mi{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 20px;
+}
+.m{
+    font-size: 50px;
+    color: gray;
+    text-align: center;
+}
+.booxs{
+    display: flex;
+}
+.booxo{
+    width: 30%;
+    height: 50%;
+   background-color: rgb(228, 226, 226);
+   margin: 10px;
+}
+.box-content{
+    font-size: 30px;
+    text-align: center;
+}
+.nnnn{
+    color: gray;
+    padding: 10px;
+}
